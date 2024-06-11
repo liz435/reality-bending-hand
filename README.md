@@ -1,5 +1,3 @@
 # reality-bending-hand
 
-HSV 
-
-Color vs Shape
+Unity Prototype for an interactive 3D experience
